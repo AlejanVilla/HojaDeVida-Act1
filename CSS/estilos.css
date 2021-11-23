@@ -1,0 +1,66 @@
+#contenedor {
+	width: 900px;
+	margin: 5px;
+	background-color: #DADDDD;
+	
+}
+
+#titulo {
+	text-align: center;
+
+}
+
+h2 {
+	margin-top: 0px;
+}
+
+p {
+	margin: 0 auto;
+	text-indent: 1 cm;
+}
+
+h4 {
+	margin: 0 auto;
+	text-indent: 1 cm;
+
+}
+
+#texto{
+	display: inline-block;
+	text-align: justify;
+	width: 300px;
+	}
+#datos {
+	
+	margin-bottom: 20px;
+	
+
+}
+#log, header {
+	display: inline-block;
+	color: #C596A5;
+	border-radius:20px;
+
+}
+
+#form, #exp, header {
+	display: inline-block;
+	color: black;
+	
+}
+
+article {
+	display: inline-block;
+	box-shadow: 0px 2px 45px #505452;
+	width: 320px;
+}
+
+article {
+	margin-right: 25px;
+}
+
+aside {
+	display: inline-block;
+	position: relative;
+	width: 550px;
+}
